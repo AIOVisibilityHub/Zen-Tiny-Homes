@@ -1,0 +1,12 @@
+{
+  "entity_name": "Zen Tiny Homes",
+  "product_id": "PROD001",
+  "name": "Design Program",
+  "short_description": "Custom design for tiny homes",
+  "description": "Full-service design program including floor-plans, layouts, blueprints, and permitting support.",
+  "price": 2500,
+  "features": "Personalized plans, 3D visualizations, code review",
+  "sku": "ZTH-DP-2025",
+  "brand": "Zen Tiny Homes",
+  "offers_price_currency": "USD"
+}

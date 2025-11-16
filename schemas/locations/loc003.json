@@ -1,0 +1,13 @@
+{
+  "entity_name": "Zen Tiny Homes",
+  "location_id": "LOC003",
+  "location_name": "Encinitas (model office)",
+  "address_street": "227 Rosebay Dr",
+  "address_city": "Encinitas",
+  "address_state": "CA",
+  "address_postal_code": 92024,
+  "phone": "760-492-0742",
+  "hours": "By appointment",
+  "geo_latitude": 33.05513,
+  "geo_longitude": -117.26109
+}

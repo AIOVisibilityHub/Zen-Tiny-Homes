@@ -1,0 +1,12 @@
+{
+  "entity_name": "Zen Tiny Homes",
+  "product_id": "PROD002",
+  "name": "Site Assessment",
+  "short_description": "On-site survey for home placement",
+  "description": "Professional site assessment and feasibility survey to prepare property for a tiny home install.",
+  "price": 500,
+  "features": "Property survey, recommendations, zoning checks",
+  "sku": "ZTH-SA-2025",
+  "brand": "Zen Tiny Homes",
+  "offers_price_currency": "USD"
+}

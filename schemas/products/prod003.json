@@ -1,0 +1,12 @@
+{
+  "entity_name": "Zen Tiny Homes",
+  "product_id": "PROD003",
+  "name": "Alpine Tiny Home Model",
+  "short_description": "Small custom mobile tiny home",
+  "description": "20' mobile tiny home with full living facilities, customizable options, and code-compliant design.",
+  "price": "$25,000+",
+  "features": "Mobile, space-efficient, upgrade options, warranty",
+  "sku": "ZTH-ALP-20",
+  "brand": "Zen Tiny Homes",
+  "offers_price_currency": "USD"
+}

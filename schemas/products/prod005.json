@@ -1,0 +1,12 @@
+{
+  "entity_name": "Zen Tiny Homes",
+  "product_id": "PROD005",
+  "name": "Mammoth Tiny Home Model",
+  "short_description": "Large mobile tiny home for families",
+  "description": "32' mobile tiny home with spacious interior, multi-room layout, and full ADA/CA code compliance.",
+  "price": "$60,000+",
+  "features": "Large size, ADA options, luxury fixtures, solar",
+  "sku": "ZTH-MMTH-32",
+  "brand": "Zen Tiny Homes",
+  "offers_price_currency": "USD"
+}

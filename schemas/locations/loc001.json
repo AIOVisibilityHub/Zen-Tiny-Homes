@@ -1,0 +1,13 @@
+{
+  "entity_name": "Zen Tiny Homes",
+  "location_id": "LOC001",
+  "location_name": "Carlsbad HQ/Factory",
+  "address_street": "7200 Ponto Rd",
+  "address_city": "Carlsbad",
+  "address_state": "CA",
+  "address_postal_code": 92009,
+  "phone": "760-492-0742",
+  "hours": "Mon–Fri 10AM–4PM",
+  "geo_latitude": 33.094353,
+  "geo_longitude": -117.312466
+}
